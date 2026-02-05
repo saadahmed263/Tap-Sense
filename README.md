@@ -49,3 +49,38 @@ npm install
 
 # 4. Start the development server
 npm run dev
+---
+
+## 📖 How to Use
+
+1.  **Launch:** Open the app in your browser.
+2.  **Permissions:** Allow camera access (required for emotion tracking).
+3.  **Upload UI:** Click "Upload UI" to select a long screenshot of the website/app you are testing.
+4.  **Start Testing:** Click "Start Testing".
+    * The app will track your face in the background.
+    * Interact with the design (click, scroll, react).
+5.  **Generate Report:** When finished, click **"Stop & Generate Report"**.
+    * You will see a dashboard with your emotion metrics, click map, and timeline.
+    * Click the **Print** icon to save it as a PDF.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1.  Fork the project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+**Built with ❤️ by [Saad Ahmed](https://github.com/saadahmed263)**
